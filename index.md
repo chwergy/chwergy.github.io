@@ -1,4 +1,4 @@
-## Welcome to chwergy
+## chwergy
 Use the [editor on GitHub](https://github.com/chwergy/chwergy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
